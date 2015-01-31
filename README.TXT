@@ -48,3 +48,38 @@ The system will have at the minimum the following components:
 SQL DB
 Scribe agents
 
+
+
+Algorithm used -
+
+VM Log collection
+1.	Connect to vcenter server
+2.	Get performance manager
+3.	Fetch real time (20 sec) refresh time
+4.	Select desired counter ID
+5.	Write logs of both host and VMs to log files
+6.	If current VM writing host logs goes down, next available VM automatically takes over the control.
+
+DRS1
+1.	Connect to vcenter server
+2.	Select least busy host based on its CPU consumption.
+3.	Input a VM name
+4.	Create a new VM on a host
+
+DRS2
+1.	Connect to vcenter server
+2.	Select least and most busy host based on its CPU consumption.
+3.	Select least and most busy VMs under each host.
+4.	Check host validation.
+5.	Check if the host can accommodate the most busy VM. 
+6.	Migrate the most busy VM  on to least busy host.
+
+
+DPM 
+1. Connect to vCenter server
+2. Check if any host uses CPU less than 30%
+3. Check if destination host is compatible
+4. Check if the destination host can accommodate the VM
+5. Migrate the VMs off the host
+6. Take the host out of service
+7. Continue the thread
