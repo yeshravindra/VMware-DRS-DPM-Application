@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/axis2-ant-plugin-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/commons-httpclient-3.1-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/javacImpl-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/pingservice.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/serverpool.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/vijava2120100824.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/admin/workspace2/cmpe283SampleCodes/cmpe283tutorial/jars/xml-apis.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
